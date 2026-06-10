@@ -12,7 +12,7 @@ A next-generation content moderation and semantic risk control system powered by
 ## 🛠️ 技术栈 (Tech Stack)
 
 - **AI & 大模型工程**：LLM / 提示词工程 (Prompt Engineering) / 大模型内容安全数据集
-- **后端架构**：Spring Boot / Python (FastAPI/Flask) *(注：请根据你实际使用的语言保留其一)*
+- **后端架构**：Python (FastAPI)
 - **数据与缓存**：MySQL, Redis
 - **基础设施**：Docker 容器化部署 / 异步任务队列
 
